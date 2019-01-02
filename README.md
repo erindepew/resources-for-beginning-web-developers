@@ -6,6 +6,7 @@ A list of resources for beginning web developers, in no particular order of impo
 ---
 
 #### Meetups 
+[League of Women Coders](https://www.meetup.com/League-of-Women-Coders/) 
 [Women Who Code](https://www.meetup.com/WomenWhoCodeNYC/)
 
 [NY Women in Tech](https://www.meetup.com/nywomentech/)
