@@ -16,6 +16,8 @@ A list of resources for beginning web developers, in no particular order of impo
 
 [Vue NYC](https://www.meetup.com/vueJsNYC/)
 
+[Vue Vixens](https://vuevixens.org/)
+
 #### IRL Courses 
 [Girl Develop It](https://www.meetup.com/girldevelopit/)
 
