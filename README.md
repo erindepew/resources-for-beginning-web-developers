@@ -31,6 +31,10 @@ A list of resources for beginning web developers, in no particular order of impo
 
 [Grace Hopper Academy](https://www.gracehopper.com/)
 
+[Flatiron School](https://flatironschool.com/) 
+
+[The Recurse Center](https://www.recurse.com/) 
+
 #### Online Courses 
 [Coursera](https://www.coursera.org/)
 
