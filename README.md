@@ -16,7 +16,15 @@ A list of resources for beginning web developers, in no particular order of impo
 
 [Vue NYC](https://www.meetup.com/vueJsNYC/)
 
+[Typescript NYC](https://www.meetup.com/TypeScriptNYC/) 
+
+[NY Javascript](https://www.meetup.com/NY-JavaScript/) 
+
+[Gotham Sass](https://www.meetup.com/gothamsass/) 
+
 [Vue Vixens](https://vuevixens.org/)
+
+[Beta NYC](https://www.meetup.com/betanyc) 
 
 #### IRL Courses 
 [Girl Develop It](https://www.meetup.com/girldevelopit/)
@@ -96,6 +104,7 @@ Frontend (frameworks):
 Vue
 React
 Typescript
+Sass
 
 Data Science:
 R
