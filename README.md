@@ -26,6 +26,8 @@ A list of resources for beginning web developers, in no particular order of impo
 #### Online Courses 
 [Coursera](https://www.coursera.org/)
 
+MIT Introduction to Programming [unit 1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/), [unit 2](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/), [unit 3](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/)
+
 #### Books 
 [D is for Digital](https://www.amazon.com/dp/B0075XZL2M/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
@@ -50,6 +52,9 @@ A list of resources for beginning web developers, in no particular order of impo
 
 [SVG Optimzer](https://jakearchibald.github.io/svgomg/) 
 
+[Git branching game](https://learngitbranching.js.org/)
+
+[Intro to git](https://www.atlassian.com/git) 
 
 #### Forums
 [Stack Overflow](https://stackoverflow.com/)
@@ -74,3 +79,39 @@ A list of resources for beginning web developers, in no particular order of impo
 
 #### Books
 [Don't Make Me Think!](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758) 
+
+
+### Languages 
+--- 
+Backend:
+C++
+Go
+Java
+
+Frontend (fundamentals):
+JavaScript 
+HTML + CSS (not techincally languages, but we'll skip the semantics)
+
+Frontend (frameworks): 
+Vue
+React
+Typescript
+
+Data Science:
+R
+Python
+
+### Beginner Project Ideas
+--- 
+
+Obviously it's better to work on a project that you're passionate about to sharpen your skills, but if you can't think of anything here are a few ideas to get you started: 
+
+[Automate the Boring Stuff](https://automatetheboringstuff.com/)
+
+[List of projects from /r/python](https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/edit)
+
+[Cryptopals crypto challenges](https://cryptopals.com/)
+
+[Project Euler](https://projecteuler.net/)
+
+Don't forget to save all of your projects to your github. This will become your portfolio during interviews.
