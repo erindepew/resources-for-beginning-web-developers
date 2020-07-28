@@ -47,6 +47,10 @@ MIT Introduction to Programming [unit 1](https://ocw.mit.edu/courses/electrical-
 
 [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X) 
 
+[Javascript: the good parts](https://www.oreilly.com/library/view/javascript-the-good/9780596517748/)
+
+[Secrets of the Javascript Ninja](https://www.oreilly.com/library/view/secrets-of-the/9781933988696/)
+
 #### Websites 
 [W3C](https://www.w3.org/standards/) 
 
